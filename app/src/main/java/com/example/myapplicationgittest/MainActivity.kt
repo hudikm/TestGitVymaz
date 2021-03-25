@@ -47,7 +47,7 @@ class MainActivity : AppCompatActivity() {
 
     override fun onStop() {
         // Dalsi koment
-        // Development
+        // Development New
         super.onStop()
     }
 
