@@ -46,7 +46,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     override fun onStop() {
-        // Development
+        // Development New
         super.onStop()
     }
 
