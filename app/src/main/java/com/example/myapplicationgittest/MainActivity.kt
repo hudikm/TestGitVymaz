@@ -41,4 +41,8 @@ class MainActivity : AppCompatActivity() {
         super.onPause()
     }
 
+    override fun onStart() {
+        super.onStart()
+    }
+
 }
