@@ -45,6 +45,10 @@ class MainActivity : AppCompatActivity() {
         super.onStart()
     }
 
+    override fun onRestart() {
+        super.onRestart()
+    }
+
     override fun onStop() {
         // Dalsi koment
         // Development New
